@@ -3,7 +3,7 @@ This document provides tutorials to train and evaluate Quasi-Dense 3D Detection 
 
 # Benchmark evaluation
 First, download the models you want to evaluate from our [model zoo](MODEL_ZOO.md) and put them in the corresponding directory following the description.
-
+****
 ## nuScenes
 - Inference on Validation set with full frames information. It will show your 3D detection and 3D Tracking score (both AMOTA@1 and AMOTA@0.2) on validation set.
 ```
